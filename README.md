@@ -56,7 +56,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='public/tinker-video.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='public/tinker-walk.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Kap
 
